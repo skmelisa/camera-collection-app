@@ -8,15 +8,15 @@ Uygulama sayesinde kullanıcılar kamera koleksiyonlarını ekleyebilir, düzenl
 
 # 🚀 Özellikler
 
-✅ Kamera ekleme
-✅ Kamera düzenleme
-✅ Kamera silme
-✅ Marka ve model ile arama
-✅ Görsel URL desteği
-✅ Varsayılan placeholder görsel
-✅ LocalStorage ile veri saklama
-✅ Tailwind CSS ile modern tasarım
-✅ Responsive arayüz
+- Kamera ekleme  
+- Kamera düzenleme  
+- Kamera silme  
+- Marka ve model ile arama  
+- Görsel URL desteği  
+- Varsayılan placeholder görsel  
+- LocalStorage ile veri saklama  
+- Tailwind CSS ile modern tasarım  
+- Responsive arayüz
 
 ---
 
